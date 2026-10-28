@@ -47,7 +47,9 @@
       "original_sha256": "b873f108224c25dc70c0e09ac8e6767c249eeb11014b381c0adbff1ed5ae48ab",
       "sanitized_sha256": "0ad30a4ada9b58996f735b7baba889fb987a653879f4df5971c5207ec4ee9c2c",
       "cells": 63,
-      "outputs_removed": true
+      "outputs_removed": true,
+      "published_path": "notebooks/tool_failure_benchmark_workflow (1).ipynb",
+      "duplicate_alias": true
     },
     {
       "path": "notebooks/tool_failure_benchmark_workflow (1).ipynb",
