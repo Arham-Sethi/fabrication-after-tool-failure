@@ -1,0 +1,112 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "9946fdfbb25aca4ab101f9644551e6a582f65ffd0ff76b34ad2cc6a250634cf0",
+    "bytes": 137
+  },
+  {
+    "path": "manuscript.pdf",
+    "sha256": "1e787c3783ee856a4e4b258f271c001ef34bfe0f75f7aa28a1877ddaf525da07",
+    "bytes": 344490
+  },
+  {
+    "path": "provenance.json",
+    "sha256": "19b9f78339cea60feec296ccf853be02af172aea5efc10d5054caa9614aecfc9",
+    "bytes": 6739
+  },
+  {
+    "path": "README.md",
+    "sha256": "641306814e3c9bc82b859e9deb6267b9cba896659803d4d51f9d7e117ca16ea4",
+    "bytes": 6587
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "8bdc10514442524dc826340ded50fd9726656a8d556c79a6f73608a4b4bd6981",
+    "bytes": 178
+  },
+  {
+    "path": "SANITIZATION.md",
+    "sha256": "093b30239650a61bc20ea77b63efcaa75d271db9270690c0151c7e135588bce9",
+    "bytes": 595
+  },
+  {
+    "path": "security-scan.json",
+    "sha256": "b1c690cfd0d9c5f9d8664cf65997adf2e008cfc72e10280aaf6af4d33dd0dc02",
+    "bytes": 278
+  },
+  {
+    "path": "notebooks/ALIASES.md",
+    "sha256": "fa630a1bcdaaf724167183616aeefbf58e0fd8d27ad1b12e5ff4243ff5bef3d8",
+    "bytes": 172
+  },
+  {
+    "path": "notebooks/defences_dev (1).ipynb",
+    "sha256": "e524a5e883ccee6a48dbde5f090c955f1bb8eeda3ec8bcb09758efcc8e9f3563",
+    "bytes": 28832
+  },
+  {
+    "path": "notebooks/deploy_scaffold (4).ipynb",
+    "sha256": "5ab8050b8bd1c84c2e4c705493c671b95ef02c2d493c1180f60585887bb3fe41",
+    "bytes": 78705
+  },
+  {
+    "path": "notebooks/final_run (1).ipynb",
+    "sha256": "b32e485e2e39d46cd08dd0efd3d248b5df3aa71d04df6af98d141f7e65932dac",
+    "bytes": 52609
+  },
+  {
+    "path": "notebooks/frameworks_run_(1).ipynb",
+    "sha256": "466b637b04e473509029e971dd873e4426e0f3ac7ced6e1d1f8d781b2e329361",
+    "bytes": 57439
+  },
+  {
+    "path": "notebooks/multimodel_sweep_1 (1).ipynb",
+    "sha256": "76a9216f54d9b460d66427a54a95436fa4b76fa5a690908d3bc97695025c9143",
+    "bytes": 37148
+  },
+  {
+    "path": "notebooks/tool_failure_benchmark_workflow (1).ipynb",
+    "sha256": "0ad30a4ada9b58996f735b7baba889fb987a653879f4df5971c5207ec4ee9c2c",
+    "bytes": 84935
+  },
+  {
+    "path": "support/build_bib.py",
+    "sha256": "1691dd9ebb5832a0f86dad3ff03c01ca299c82537911bce38f167bca16d2ce06",
+    "bytes": 12892
+  },
+  {
+    "path": "support/citations_master.csv",
+    "sha256": "7f8c664a0d8d25fbc7a99844d4b274ddbae06cb70269f169c6ea778b934ef049",
+    "bytes": 9317
+  },
+  {
+    "path": "support/dump_methods_facts.py",
+    "sha256": "6d0521770e5fb90f27754c1082cdf00194d24d0209541b51502b870af481046b",
+    "bytes": 13171
+  },
+  {
+    "path": "support/echo_quantification.py",
+    "sha256": "a5f5f715e4c14f8514e756a7e896bd36f6dfa00694edf7c04811f57fc17e8578",
+    "bytes": 32149
+  },
+  {
+    "path": "support/probe_model.py",
+    "sha256": "23b8cf8c80bfdafc51c37c93e1efc8cad6f4e50adde20c9ac45dbee7a936950f",
+    "bytes": 6708
+  },
+  {
+    "path": "support/verification_report.csv",
+    "sha256": "689a8a12b50d4669da9dcf0347514782284bc604ac48985367ce58d92da8c41e",
+    "bytes": 19750
+  },
+  {
+    "path": "support/verify_citations.py",
+    "sha256": "cf083dc4101dbb896429d2de8d915a24c51b5cce3ef49c1112cc7cade4e9bd41",
+    "bytes": 16365
+  }
+]

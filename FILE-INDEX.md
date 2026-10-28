@@ -1,0 +1,26 @@
+# Repository file index
+
+Complete published snapshot. Paths are directly browsable on GitHub; files retain their source layout.
+
+- [.gitattributes](.gitattributes)
+- [.gitignore](.gitignore)
+- [manuscript.pdf](manuscript.pdf)
+- [notebooks/ALIASES.md](notebooks/ALIASES.md)
+- [notebooks/defences_dev (1).ipynb](notebooks/defences_dev%20%281%29.ipynb)
+- [notebooks/deploy_scaffold (4).ipynb](notebooks/deploy_scaffold%20%284%29.ipynb)
+- [notebooks/final_run (1).ipynb](notebooks/final_run%20%281%29.ipynb)
+- [notebooks/frameworks_run_(1).ipynb](notebooks/frameworks_run_%281%29.ipynb)
+- [notebooks/multimodel_sweep_1 (1).ipynb](notebooks/multimodel_sweep_1%20%281%29.ipynb)
+- [notebooks/tool_failure_benchmark_workflow (1).ipynb](notebooks/tool_failure_benchmark_workflow%20%281%29.ipynb)
+- [provenance.json](provenance.json)
+- [README.md](README.md)
+- [requirements.txt](requirements.txt)
+- [SANITIZATION.md](SANITIZATION.md)
+- [security-scan.json](security-scan.json)
+- [support/build_bib.py](support/build_bib.py)
+- [support/citations_master.csv](support/citations_master.csv)
+- [support/dump_methods_facts.py](support/dump_methods_facts.py)
+- [support/echo_quantification.py](support/echo_quantification.py)
+- [support/probe_model.py](support/probe_model.py)
+- [support/verification_report.csv](support/verification_report.csv)
+- [support/verify_citations.py](support/verify_citations.py)

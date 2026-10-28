@@ -1,0 +1,8 @@
+{
+  "files_scanned": 19,
+  "code_cells_inspected": 195,
+  "remaining_outputs": 0,
+  "secret_findings": [],
+  "parse_findings": [],
+  "note": "Static patterns and notebook structure checks; not a guarantee that all sensitive information or scientific issues are absent."
+}

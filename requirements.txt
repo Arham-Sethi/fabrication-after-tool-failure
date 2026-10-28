@@ -1,0 +1,13 @@
+google-genai
+google-auth
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+requests
+PyYAML
+gspread
+nbformat
+# google-colab is provided by the hosted Colab runtime.
+scikit-learn

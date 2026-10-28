@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "notebooks/final_run (1).ipynb",
+      "original_filename": "final_run (1).ipynb",
+      "original_sha256": "ab661f9a82a887186a84dc3c9c2bb7803ff12c5eaaf7bd2c910145d81958f8b5",
+      "sanitized_sha256": "b32e485e2e39d46cd08dd0efd3d248b5df3aa71d04df6af98d141f7e65932dac",
+      "cells": 19,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/deploy_scaffold (4).ipynb",
+      "original_filename": "deploy_scaffold (4).ipynb",
+      "original_sha256": "0daea692bafbd4c1f39be8fcfc2c14b87381c17e14412922ff620f6b977701a6",
+      "sanitized_sha256": "5ab8050b8bd1c84c2e4c705493c671b95ef02c2d493c1180f60585887bb3fe41",
+      "cells": 23,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/multimodel_sweep_1 (1).ipynb",
+      "original_filename": "multimodel_sweep_1 (1).ipynb",
+      "original_sha256": "8da2d178accf62faef64e2f565a989a0f5eaf7f48cd064999f44c135e305b324",
+      "sanitized_sha256": "76a9216f54d9b460d66427a54a95436fa4b76fa5a690908d3bc97695025c9143",
+      "cells": 18,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/defences_dev (1).ipynb",
+      "original_filename": "defences_dev (1).ipynb",
+      "original_sha256": "3393a53542cdaf8bf329e10e50e323d9cfedec3b5a52ab497ccf6315af8845a3",
+      "sanitized_sha256": "e524a5e883ccee6a48dbde5f090c955f1bb8eeda3ec8bcb09758efcc8e9f3563",
+      "cells": 15,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/frameworks_run_(1).ipynb",
+      "original_filename": "frameworks_run_(1).ipynb",
+      "original_sha256": "6f825a175ff00ea58232be9db405f0fd2951c3bdfa20f2dfd9f39d3a33eed199",
+      "sanitized_sha256": "466b637b04e473509029e971dd873e4426e0f3ac7ced6e1d1f8d781b2e329361",
+      "cells": 28,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/tool_failure_benchmark_workflow (2).ipynb",
+      "original_filename": "tool_failure_benchmark_workflow (2).ipynb",
+      "original_sha256": "b873f108224c25dc70c0e09ac8e6767c249eeb11014b381c0adbff1ed5ae48ab",
+      "sanitized_sha256": "0ad30a4ada9b58996f735b7baba889fb987a653879f4df5971c5207ec4ee9c2c",
+      "cells": 63,
+      "outputs_removed": true
+    },
+    {
+      "path": "notebooks/tool_failure_benchmark_workflow (1).ipynb",
+      "original_filename": "tool_failure_benchmark_workflow (1).ipynb",
+      "original_sha256": "b873f108224c25dc70c0e09ac8e6767c249eeb11014b381c0adbff1ed5ae48ab",
+      "sanitized_sha256": "0ad30a4ada9b58996f735b7baba889fb987a653879f4df5971c5207ec4ee9c2c",
+      "cells": 63,
+      "outputs_removed": true
+    },
+    {
+      "path": "support/build_bib.py",
+      "original_sha256": "1691dd9ebb5832a0f86dad3ff03c01ca299c82537911bce38f167bca16d2ce06",
+      "sanitized_sha256": "1691dd9ebb5832a0f86dad3ff03c01ca299c82537911bce38f167bca16d2ce06",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/citations_master.csv",
+      "original_sha256": "7f8c664a0d8d25fbc7a99844d4b274ddbae06cb70269f169c6ea778b934ef049",
+      "sanitized_sha256": "7f8c664a0d8d25fbc7a99844d4b274ddbae06cb70269f169c6ea778b934ef049",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/dump_methods_facts.py",
+      "original_sha256": "6d0521770e5fb90f27754c1082cdf00194d24d0209541b51502b870af481046b",
+      "sanitized_sha256": "6d0521770e5fb90f27754c1082cdf00194d24d0209541b51502b870af481046b",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/echo_quantification.py",
+      "original_sha256": "a5f5f715e4c14f8514e756a7e896bd36f6dfa00694edf7c04811f57fc17e8578",
+      "sanitized_sha256": "a5f5f715e4c14f8514e756a7e896bd36f6dfa00694edf7c04811f57fc17e8578",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/probe_model.py",
+      "original_sha256": "2bd86b4c957edd38e2a73266d417cfeba7b3e763f1dc31f004816a14d240da99",
+      "sanitized_sha256": "23b8cf8c80bfdafc51c37c93e1efc8cad6f4e50adde20c9ac45dbee7a936950f",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/verification_report.csv",
+      "original_sha256": "689a8a12b50d4669da9dcf0347514782284bc604ac48985367ce58d92da8c41e",
+      "sanitized_sha256": "689a8a12b50d4669da9dcf0347514782284bc604ac48985367ce58d92da8c41e",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    },
+    {
+      "path": "support/verify_citations.py",
+      "original_sha256": "cf083dc4101dbb896429d2de8d915a24c51b5cce3ef49c1112cc7cade4e9bd41",
+      "sanitized_sha256": "cf083dc4101dbb896429d2de8d915a24c51b5cce3ef49c1112cc7cade4e9bd41",
+      "role": "Auxiliary research support; not automatically paper-result evidence"
+    }
+  ],
+  "sanitization": [
+    {
+      "notebook": "final_run (1).ipynb",
+      "cell": 0,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "deploy_scaffold (4).ipynb",
+      "cell": 1,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "multimodel_sweep_1 (1).ipynb",
+      "cell": 2,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "defences_dev (1).ipynb",
+      "cell": 1,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "frameworks_run_(1).ipynb",
+      "cell": 1,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "tool_failure_benchmark_workflow (2).ipynb",
+      "cell": 7,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    },
+    {
+      "notebook": "tool_failure_benchmark_workflow (1).ipynb",
+      "cell": 7,
+      "change": "Externalized credential/project/sheet settings where present; disabled sheet publishing; removed credential-identity diagnostics."
+    }
+  ],
+  "execution": "No notebook or research code executed during preparation."
+}
